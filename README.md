@@ -2,11 +2,10 @@
  LoLShowCode é um aplicativo criador em PHP usando LARAVEL 9
 tem como finalidade buscar localização por cep
 
-##Video de Demonstração
-https://www.loom.com/share/671cab963c13488aa9c304487fa56892
+
 
 ##Link para download de toda a aplicação [inclue a pasta VENDOR/NODEMODULES]
-https://we.tl/t-xlKFNsx5gW
+https://we.tl/t-FLpbkViH94
 
 
 
