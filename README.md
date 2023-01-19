@@ -15,6 +15,7 @@ composer require laravel/sail --dev [caso ainda não esteja instalada na maquina
 php artisan sail:install | para instalar a imagem<br/>
 
 ./vendor/bin/sail up -d| para subir o DOcker a imagem<br/>
+./vendor/bin/sail down| terminar o DOcker a imagem<br/>
 
 
 ./vendor/bin/sail composer install | instalar o vendor do Laravel<br/>
